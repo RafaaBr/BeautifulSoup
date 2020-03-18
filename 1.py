@@ -8,3 +8,4 @@ html = urlopen(url)
 bs = BeautifulSoup(html, 'lxml')
 
 print(bs.title)
+#teste
